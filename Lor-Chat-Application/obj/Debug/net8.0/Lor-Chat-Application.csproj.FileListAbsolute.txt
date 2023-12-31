@@ -1,0 +1,14 @@
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\bin\Debug\net8.0\Lor-Chat-Application.exe
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\bin\Debug\net8.0\Lor-Chat-Application.deps.json
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\bin\Debug\net8.0\Lor-Chat-Application.runtimeconfig.json
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\bin\Debug\net8.0\Lor-Chat-Application.dll
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\bin\Debug\net8.0\Lor-Chat-Application.pdb
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.AssemblyInfoInputs.cache
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.AssemblyInfo.cs
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.csproj.CoreCompileInputs.cache
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.dll
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\refint\Lor-Chat-Application.dll
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.pdb
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\Lor-Chat-Application.genruntimeconfig.cache
+E:\Programming\Dec 2023 practice\Lor-Chat-Application\Lor-Chat-Application\obj\Debug\net8.0\ref\Lor-Chat-Application.dll
